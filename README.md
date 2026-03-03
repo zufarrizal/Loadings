@@ -1,32 +1,39 @@
 # Loading Animations Collection
 
-Kumpulan loading animation berbasis HTML + CSS dengan beberapa tema visual.
+A collection of HTML + CSS loading animations across multiple visual themes.
 
 ## Koleksi
 
 ### 1. Glassmorphism (34 loader)
-- `Glassmorphism/index.html`: galeri 34 loader bertema glass.
-- `Glassmorphism/styles.css`: styling dan animasi seluruh loader Glassmorphism.
-- Gaya visual: panel blur/transparan dengan nuansa gelap.
+- `Glassmorphism/index.html`: gallery of 34 glass-themed loaders.
+- `Glassmorphism/styles.css`: styling and animation rules for all Glassmorphism loaders.
+- Visual style: blurred/translucent panels with a dark aesthetic.
 
 ### 2. Wireframe Tech (20 loader)
-- `Wireframe Tech/index.html`: galeri 20 loader bertema wireframe teknologi.
-- `Wireframe Tech/styles.css`: styling dan animasi seluruh loader Wireframe Tech.
-- Gaya visual: garis neon biru, grid background, dan efek UI teknikal.
+- `Wireframe Tech/index.html`: gallery of 20 tech wireframe-themed loaders.
+- `Wireframe Tech/styles.css`: styling and animation rules for all Wireframe Tech loaders.
+- Visual style: neon blue lines, grid background, and technical UI effects.
 
 ### 3. Retro Pixel (20 loader)
-- `Retro Pixel/index.html`: galeri 20 loader bertema retro pixel.
-- `Retro Pixel/styles.css`: styling dan animasi seluruh loader Retro Pixel.
-- Gaya visual: nuansa arcade 8-bit, panel pixel, dan animasi bertingkat.
+- `Retro Pixel/index.html`: gallery of 20 retro pixel-themed loaders.
+- `Retro Pixel/styles.css`: styling and animation rules for all Retro Pixel loaders.
+- Visual style: 8-bit arcade vibe, pixel panels, and layered animations.
 
-## Cara Menjalankan
+### 4. Terminal / CLI (20 loader)
+- `Terminal/index.html`: gallery of 20 terminal and command-line themed loaders.
+- `Terminal/styles.css`: styling and animation rules for all Terminal / CLI loaders.
+- Visual style: green CRT monitor look, subtle scanlines, and shell prompt elements.
 
-1. Buka salah satu file berikut di browser:
+## How To Run
+
+1. Open one of the following files in your browser:
    - `Glassmorphism/index.html`
    - `Wireframe Tech/index.html`
-2. Edit file CSS pada folder tema terkait, lalu refresh browser untuk melihat perubahan.
+   - `Retro Pixel/index.html`
+   - `Terminal/index.html`
+2. Edit the CSS file inside the selected theme folder, then refresh the browser to see changes.
 
-## Struktur Proyek
+## Project Structure
 
 ```text
 Loadings/
@@ -37,6 +44,9 @@ Loadings/
 |  |- index.html
 |  |- styles.css
 |- Retro Pixel/
+|  |- index.html
+|  |- styles.css
+|- Terminal/
 |  |- index.html
 |  |- styles.css
 |- README.md
