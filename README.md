@@ -14,6 +14,11 @@ Kumpulan loading animation berbasis HTML + CSS dengan beberapa tema visual.
 - `Wireframe Tech/styles.css`: styling dan animasi seluruh loader Wireframe Tech.
 - Gaya visual: garis neon biru, grid background, dan efek UI teknikal.
 
+### 3. Retro Pixel (20 loader)
+- `Retro Pixel/index.html`: galeri 20 loader bertema retro pixel.
+- `Retro Pixel/styles.css`: styling dan animasi seluruh loader Retro Pixel.
+- Gaya visual: nuansa arcade 8-bit, panel pixel, dan animasi bertingkat.
+
 ## Cara Menjalankan
 
 1. Buka salah satu file berikut di browser:
@@ -29,6 +34,9 @@ Loadings/
 |  |- index.html
 |  |- styles.css
 |- Wireframe Tech/
+|  |- index.html
+|  |- styles.css
+|- Retro Pixel/
 |  |- index.html
 |  |- styles.css
 |- README.md
